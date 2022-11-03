@@ -1,0 +1,5 @@
+{
+  "ameliaUrl": "https://bcbsma.demo.amelia.com/Amelia/ui/bcbsma/?domainCode=bcbsma&processName=login_issue",
+  "chatUrl": "https://bcbsma.demo.amelia.com/Amelia/ui/bcbsma/chat?domainCode=bcbsma&processName=login_issue",
+  "clientUrl": "https://qa3.mybluweb30-devbcbsma.com/login"
+}
